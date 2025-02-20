@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @imdeaddev
+- 👀 I’m interested in game development and graphics programming
+- 📫 How to reach me: [email](mailto:deaddev@duck.com), [Discord](https://discordapp.com/users/1235128319033475162)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like Half-life and Dishonored game series.
