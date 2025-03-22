@@ -5,8 +5,9 @@
 <a href="https://github.com/imdeaddev">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=imdeaddev&theme=synthwave" />
 </a>
+
 <a href="https://github.com/imddeaddev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?theme=synthwave&username=imdeaddev&languages=8&hide=css,html,python,javascript&layout=compact&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?theme=synthwave&username=imdeaddev&langs_count=3&hide=css,html,python,javascript&card_width=320" />
 </a>
 
 ## **About Me:**
